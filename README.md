@@ -4,13 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kckmdev&label=Profile%20views&color=0e75b6&style=flat" alt="kckmdev" /> </p>
 
 
-- 🔭 I’m currently working on **private projects**
-
-- 🌱 I’m currently learning **frameworks and many languages (Javascript,Python...)**
+- 🔭 I’m currently working on many **projects** there are all private for the moment
 
 - 📫 How to reach me **kckm.dev@gmail.com**
-
-- ⚡ Fun fact **It's Football not soccer**
 
 <p align="left">
 </p>
